@@ -1,0 +1,22 @@
+<resources>
+    <!-- general -->
+    <string name="app_name">hbsis.teste</string>
+    <string name="only_letters_edittext_pattern">abcdefghijklmnopqrstuvwxyzABCD EFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="sort_option_nome">Nome</string>
+    <string name="sort_option_temp_min">Temp Min</string>
+    <string name="sort_option_temp_max">Temp Máx</string>
+
+    <!--activities -->
+    <string name="title_activity_main">Cidades</string>
+    <string name="title_activity_add_city">Adicionar cidade</string>
+    <string name="title_activity_detail_city">Previsão 5 dias</string>
+    <string name="hint_add_city">Digite o nome da cidade e clique em Procurar para então adicionar a cidade</string>
+    <string name="hint_detail_city">Estas são as previsões de 3 em 3 horas para os próximos 5 dias</string>
+
+    <!-- messages -->
+    <string name="error_no_connection">Por favor verifique sua conexão com a internet</string>
+    <string name="error_unknown">Desculpe, ocorreu algum erro desconhecido.</string>
+    <string name="error_no_city_selected">Não há uma cidade selecionada.</string>
+    <string name="success_city_add">Cidade adicionada com sucesso.</string>
+
+</resources>
